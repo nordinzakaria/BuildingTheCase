@@ -51,6 +51,7 @@
     <Compile Include="Version1_2.cs" />
     <Compile Include="Version1_3.cs" />
     <Compile Include="Version1_4.cs" />
+    <Compile Include="Version1_5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
